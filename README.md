@@ -1,5 +1,15 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
+_s + Webpack
+===
+I combined _s with Webpack for some of my own projects. I noticed that there werent any up to date versions of _s with Webpack out there so I am putting mine up. This includes
+
+* Webpack, Babel and Terser to handle JS.
+* Node SASS plus a few Webpack CSS/SASS loaders to handle CSS.
+* Imagemin plus the CopyWebpackPlugin to handle image minifiction.
+
+I made some modifications to the scripts in package.json and reorganised the folders. Other than that I left everything pretty much as is. Hope somebody gets some use out of it!
+
 _s
 ===
 
