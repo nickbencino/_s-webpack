@@ -8,7 +8,7 @@ I combined _s with Webpack for some of my own projects. I noticed that there wer
 * Node SASS plus a few Webpack CSS/SASS loaders to handle CSS.
 * Imagemin plus the CopyWebpackPlugin to handle image minifiction.
 
-I made some modifications to the scripts in package.json and reorganised the folders. Other than that I left everything pretty much as is. Hope somebody gets some use out of it!
+I made some modifications to the scripts in package.json and reorganised the folders. Other than that I left _s as is. Hope somebody finds it useful.
 
 _s
 ===
